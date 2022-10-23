@@ -1,0 +1,15 @@
+/Users/mandis/Desktop/Homework2/Task5/bin/Debug/net6.0/Task5
+/Users/mandis/Desktop/Homework2/Task5/bin/Debug/net6.0/Task5.deps.json
+/Users/mandis/Desktop/Homework2/Task5/bin/Debug/net6.0/Task5.runtimeconfig.json
+/Users/mandis/Desktop/Homework2/Task5/bin/Debug/net6.0/Task5.dll
+/Users/mandis/Desktop/Homework2/Task5/bin/Debug/net6.0/Task5.pdb
+/Users/mandis/Desktop/Homework2/Task5/obj/Debug/net6.0/Task5.csproj.AssemblyReference.cache
+/Users/mandis/Desktop/Homework2/Task5/obj/Debug/net6.0/Task5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mandis/Desktop/Homework2/Task5/obj/Debug/net6.0/Task5.AssemblyInfoInputs.cache
+/Users/mandis/Desktop/Homework2/Task5/obj/Debug/net6.0/Task5.AssemblyInfo.cs
+/Users/mandis/Desktop/Homework2/Task5/obj/Debug/net6.0/Task5.csproj.CoreCompileInputs.cache
+/Users/mandis/Desktop/Homework2/Task5/obj/Debug/net6.0/Task5.dll
+/Users/mandis/Desktop/Homework2/Task5/obj/Debug/net6.0/refint/Task5.dll
+/Users/mandis/Desktop/Homework2/Task5/obj/Debug/net6.0/Task5.pdb
+/Users/mandis/Desktop/Homework2/Task5/obj/Debug/net6.0/Task5.genruntimeconfig.cache
+/Users/mandis/Desktop/Homework2/Task5/obj/Debug/net6.0/ref/Task5.dll
