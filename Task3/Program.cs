@@ -1,2 +1,17 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Задать номер четверти, показать диапазоны для возможных координат
+//Warning! я могла неправильно понять условия задачи и отсюда решение может быть неверным
+// если я ошиблась - я могу перерешать ее
+
+Console.Clear();
+Console.WriteLine("введите номер четверти в системе координат от 1 до 4: ");
+int number = int.Parse(Console.ReadLine());
+if (number == 1)
+    Console.WriteLine("x = (от 0 до бесконечности); y = (от 0 до бесконечности)");
+if (number == 2)
+    Console.WriteLine("x = ( от - бесконечности до 0); y = (0, до бесконечности)");
+if (number == 3)
+    Console.WriteLine("x = (от - бесконечности до 0); y = (от - бесконечности до 0)");
+if (number == 4)
+    Console.WriteLine("x = (0, до бесконечности); y = (от - бесконечности до 0)");
+if (number > 4 || number < 1)
+    Console.WriteLine("введите число от 1 до 4");
